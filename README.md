@@ -1,7 +1,7 @@
 # Subtitle Download Website
 
 A web application for downloading subtitles, built with a MERN stack. The backend is developed using Mongoose, CORS, body-parser, Express, and Multer, while the frontend uses React, react-router-dom, and Axios.
-![Homepage](https://github.com/sahanHansaja026/Subtitle-website---MERN-/blob/main/image1.png)
+![Homepage](https://github.com/sahan026/images/blob/main/image1.png)
 
 ## Features
 
@@ -141,23 +141,23 @@ client/
 
 ### Homepage
 
-![Homepage](https://github.com/sahanHansaja026/Subtitle-website---MERN-/blob/main/image1.png)
+![Homepage](https://github.com/sahan026/images/blob/main/image1.png)
 
 ### Register Page
 
-![Register Page](https://github.com/sahanHansaja026/Subtitle-website---MERN-/blob/main/image3.png)
+![Register Page](https://github.com/sahan026/images/blob/main/image3.png)
 
 ### Login Page
 
-![Login Page](https://github.com/sahanHansaja026/Subtitle-website---MERN-/blob/main/image2.png)
+![Login Page](https://github.com/sahan026/images/blob/main/image2.png)
 
 ### Upload Subtitle Page
 
-![Upload Subtitle Page](https://github.com/sahanHansaja026/Subtitle-website---MERN-/blob/main/image4.png)
+![Upload Subtitle Page](https://github.com/sahan026/images/blob/main/image4.png)
 
 ### Unic Subtitles Page
 
-![Search Subtitles Page](https://github.com/sahanHansaja026/Subtitle-website---MERN-/blob/main/image5.png)
+![Search Subtitles Page](https://github.com/sahan026/images/blob/main/image5.png)
 
 ## Contributing
 
