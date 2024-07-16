@@ -41,7 +41,7 @@ cd subtitle-download-website
 2. **Install dependencies:**
 
 ```bash
-npm install concurrently express mongoose cors body-parser multer
+npm install concurrently express mongoose cors body-parser multer -g nodemon
 ```
 
 3. **Create a `.env` file and add your MongoDB URI and other environment variables:**
