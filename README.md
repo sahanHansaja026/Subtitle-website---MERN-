@@ -41,7 +41,7 @@ cd subtitle-download-website
 2. **Install dependencies:**
 
 ```bash
-npm install
+npm install concurrently express mongoose cors body-parser multer
 ```
 
 3. **Create a `.env` file and add your MongoDB URI and other environment variables:**
@@ -70,7 +70,7 @@ cd client
 2. **Install dependencies:**
 
 ```bash
-npm install express mongoose cors body-parser multer
+npm install axios react-router-dom
 ```
 
 3. **Start the frontend development server:**
